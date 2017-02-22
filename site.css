@@ -18,10 +18,10 @@ form {
   align-items: center;
   width: 100%; }
   form button {
-    width: 10%;
+    width: 5em;
     border: none;
     color: white;
-    font-size: .90em;
+    font-size: .70em;
     border-radius: 4px;
     background-color: #1e90ff;
     text-transform: uppercase; }
