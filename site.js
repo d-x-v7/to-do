@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => { /** Wrapping parent for th
 	const enterCheck = (e) => {
 		const input = e.target; /** Research what "target" means**/
 
-		if (e.keycode === 13) {
+		if (e.keyCode === 13) {
 			save(input.nextSibling, input.parentNode);
 		}
 	};
